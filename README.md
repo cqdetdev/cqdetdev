@@ -55,7 +55,7 @@
 <div align="center"><h2>Organizations and Projects</h2></div> 
 
 <div align="center">
-        <ul>
+        <ul style="list-style: none">
             <li><h2>Vasar Network</h2></li>
             <li><h2>OwnagePE</h2></li>
             <li><h2>OomphAC</h2></li>
