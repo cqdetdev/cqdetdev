@@ -51,3 +51,13 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=rcon&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=allah&theme=dark">
 </div>
+
+<div align="center"><h2>Organizations and Projects</h2></div> 
+
+<div align="center">
+        <ul>
+            <li><h2>Vasar Network</h2></li>
+            <li><h2>OwnagePE</h2></li>
+            <li><h2>OomphAC</h2></li>
+        </ul>
+</div>
