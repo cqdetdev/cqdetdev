@@ -41,6 +41,10 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=cqdetdev&count_private=true&theme=radical">
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cqdetdev&layout=compact&theme=radical&count_private=true">
   <br>
 </div>
 
