@@ -49,4 +49,5 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=sage&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=rcon&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=allah&theme=dark">
 </div>
