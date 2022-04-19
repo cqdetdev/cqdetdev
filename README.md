@@ -53,7 +53,7 @@
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=sage&theme=dark">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=rcon&theme=dark">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=allah&theme=dark">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=cqdetdev&repo=Vanity&theme=dark">
 </div>
 
 <div align="center"><h2>Organizations and Projects</h2></div> 
